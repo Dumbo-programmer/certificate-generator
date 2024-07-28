@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Certificate Generator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Certificate Generator</h1>
+    <form id="certificateForm">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+      <label for="hours">Hours Spent:</label>
+      <input type="number" id="hours" name="hours" required>
+      <button type="submit">Generate Certificate</button>
+    </form>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
