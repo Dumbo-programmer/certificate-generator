@@ -8,6 +8,10 @@ A web application that generates downloadable PDF certificates with user-provide
 - Generates a downloadable PDF certificate with the user's data.
 - Modern, clean, and responsive design.
 
+- ![image](https://github.com/user-attachments/assets/83ceb7d2-a9eb-44d2-843b-c985ebb505ad)
+
+
+
 ## Technologies Used
 
 - HTML, CSS, JavaScript for the frontend.
